@@ -1,2 +1,0 @@
-# maoutweet
-tweet
